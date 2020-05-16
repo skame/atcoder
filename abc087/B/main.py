@@ -1,6 +1,8 @@
 #!/usr/bin/env python3
-import sys
 
+# う，全探索か……．50^3 なるほど．再帰でも解けると思うんだけどこれは python 力不足．あとでリセットしてやり直そう．
+
+import sys
 
 def solve(A: int, B: int, C: int, X: int):
     C500_max, mod = divmod(X, 500)
