@@ -13,7 +13,7 @@
             "stopOnEntry": true,
             "args": [
                 "<",
-                "in_2.txt"
+                "in_1.txt"
             ]
         }
     ]
